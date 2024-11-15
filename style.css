@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  Verdana, sans-serif;
+}
+body{
+    background-color: rgba(128, 113, 194, 0.678);
+}
+.container{
+    height: 1000px;
+    margin: auto;
+    text-align: center;
+    margin-top: 44px;
+}
+.container button{
+    width: 90px;
+    height: 35px;
+    background-color: #ef2626;
+    color: #ffffff;
+    font-size: 24px;
+    border-radius: 6px;
+    border: none;
+    margin-top: 22px;
+    cursor: pointer;
+}
+textarea{
+    height: 252px;
+    background-color: #c5bce5;
+    border-radius: 15px;
+    margin-top: 22px;
+    border: 2px solid black;
+    font-size: 18px;
+    padding: 12px;
+}
+.textArea p{
+    font-size: 15px;
+}
